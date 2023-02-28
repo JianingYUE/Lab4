@@ -35,4 +35,4 @@ Step 8: Commit and push
 
 ![Image](lab4-7.png)
 
-Key pressed:`<git status> + <git add ListExamples.java> + <git commit -m "fixed the bug"> + <git push origin main>`
+Key pressed:`<git status> <enter> + <git add ListExamples.java> <enter> + <git commit -m "fixed the bug"> <enter> + <git push origin main> <enter>`
