@@ -33,4 +33,6 @@ Key pressed: `<up>` x 7 times then `<enter>`. `<up> x 7 times` then `<enter>`. T
 
 Step 8: Commit and push
 
+![Image](lab4-7.png)
 
+Key pressed:`<git status> + <git add ListExamples.java> + <git commit -m "fixed the bug"> + <git push origin main>`
