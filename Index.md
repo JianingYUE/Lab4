@@ -19,14 +19,18 @@ Keys pressed: `<command + v>` then `<enter>` then `<command + v>` and `<enter>`
 Step 7: fix the bug with `nano` command.
 
 ![Image](lab4-4.png)
+
 ![Image](lab4-5.png)
 
 Keys pressed: nano `<tab>` ListExamples.java `<enter>` then use `<down> x 42 times` then `<left> x 12 times` then change 1 to 2 with `<delate>`
-To save and quit the `nano`, use `<control x>` then press Y to save the change. Then use `<enter>' to comfirm quit.
+To save and quit the `nano`, use `<control x>` then press Y to save the change. Then use `<enter>` to comfirm quit.
 
 Step 7: Retest the file with the same command with Step 6.
 
 ![Image](lab4-6.png)
 
-Key pressed: `<up> x 7 times` then `<enter>`. `<up> x 7 times` then `<enter>`.
-The javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java command was 4 up in the search history, so I used up arrow to access it. Then the java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore command was 4 up in the history, so I accessed and ran it in the same way.
+Key pressed: `<up>` x 7 times then `<enter>`. `<up> x 7 times` then `<enter>`. The javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java command was 7 up in the search history, so I used up arrow to access it. Then the java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests command was 7 up in the history, so I accessed and ran it in the same way.
+
+Step 8: Commit and push
+
+
